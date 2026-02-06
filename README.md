@@ -1,8 +1,6 @@
 Please cite the following paper if you are using this code.
 
-M. A. Ganaie*, M. Sajid*, A. K. Malik and M. Tanveer (2024), "Graph Embedded Intuitionistic Fuzzy Random Vector Functional Link Neural Network for Class Imbalance Learning," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2024.3353531.
-
-*Authors have equal contributions in this paper. 
+M. A. Ganaie*, M. Sajid*, A. K. Malik and M. Tanveer (2024), "Graph Embedded Intuitionistic Fuzzy Random Vector Functional Link Neural Network for Class Imbalance Learning," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2024.3353531. (*Authors have equal contributions in this paper) 
 
 Paper: https://doi.org/10.1109/TNNLS.2024.3353531
 
