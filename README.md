@@ -4,6 +4,7 @@ M. A. Ganaie*, M. Sajid*, A. K. Malik and M. Tanveer (2024), "Graph Embedded Int
 *Authors have equal contributions in this paper. 
 
 Paper: https://doi.org/10.1109/TNNLS.2024.3353531
+Arxiv Link: https://doi.org/10.48550/arXiv.2307.07881
 
 
 Bibtex
